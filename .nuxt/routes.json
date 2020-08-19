@@ -1,0 +1,30 @@
+[
+  {
+    "name": "releases___tw",
+    "path": "/releases",
+    "component": "D:\\\\Projects\\\\test-doc\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\releases.vue",
+    "chunkName": "pages/releases",
+    "_name": "_98db6ea6"
+  },
+  {
+    "name": "releases___en",
+    "path": "/en/releases",
+    "component": "D:\\\\Projects\\\\test-doc\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\releases.vue",
+    "chunkName": "pages/releases",
+    "_name": "_98db6ea6"
+  },
+  {
+    "name": "all___en",
+    "path": "/en/*",
+    "component": "D:\\\\Projects\\\\test-doc\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
+    "chunkName": "pages/_",
+    "_name": "_4ba7c8ce"
+  },
+  {
+    "name": "all___tw",
+    "path": "/*",
+    "component": "D:\\\\Projects\\\\test-doc\\\\node_modules\\\\@nuxt\\\\content-theme-docs\\\\src\\\\pages\\\\_.vue",
+    "chunkName": "pages/_",
+    "_name": "_4ba7c8ce"
+  }
+]
