@@ -1,10 +1,10 @@
 {
   "title": "my-test-doc",
-  "url": "https://github.com/christinlu",
+  "url": "https://test-doc.vercel.app/",
   "logo": {
     "light": "/logo-light.svg",
     "dark": "/logo-dark.svg"
   },
-  "github": "christinlu/test-doc",
+  "github": "chrislutw/test-doc",
   "twitter": "@chrislutw"
 }

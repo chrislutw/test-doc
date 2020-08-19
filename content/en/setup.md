@@ -1,8 +1,8 @@
 ---
-title: Setup
+title: 安裝
 description: ''
 position: 2
-category: Guide
+category: 起步
 ---
 
 Check the [Nuxt.js documentation](https://nuxtjs.org/api/configuration-modules#the-modules-property) for more information about installing and using modules in Nuxt.js.

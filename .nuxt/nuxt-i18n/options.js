@@ -1,7 +1,7 @@
 export const vueI18n = {}
 export const vueI18nLoader = false
-export const locales = [{"code":"tw","iso":"zh-TW","file":"~/lang/zh-TW.json","name":"繁體中文"},{"code":"en","iso":"en-US","file":"en-US.js","name":"English"}]
-export const defaultLocale = 'tw'
+export const locales = [{"code":"en","iso":"en-US","file":"en-US.js","name":"English"}]
+export const defaultLocale = 'en'
 export const routesNameSeparator = '___'
 export const defaultLocaleRouteNameSuffix = 'default'
 export const strategy = 'prefix_except_default'
@@ -25,5 +25,5 @@ export const LOCALE_DOMAIN_KEY = 'domain'
 export const LOCALE_FILE_KEY = 'file'
 export const STRATEGIES = {"PREFIX":"prefix","PREFIX_EXCEPT_DEFAULT":"prefix_except_default","PREFIX_AND_DEFAULT":"prefix_and_default","NO_PREFIX":"no_prefix"}
 export const COMPONENT_OPTIONS_KEY = 'nuxtI18n'
-export const localeCodes = ["tw","en"]
+export const localeCodes = ["en"]
 export const trailingSlash = undefined

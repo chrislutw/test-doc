@@ -25,19 +25,11 @@ export const routerOptions = {
   routes: [{
     path: "/releases",
     component: _98db6ea6,
-    name: "releases___tw"
-  }, {
-    path: "/en/releases",
-    component: _98db6ea6,
     name: "releases___en"
-  }, {
-    path: "/en/*",
-    component: _4ba7c8ce,
-    name: "all___en"
   }, {
     path: "/*",
     component: _4ba7c8ce,
-    name: "all___tw"
+    name: "all___en"
   }],
 
   fallback: false
