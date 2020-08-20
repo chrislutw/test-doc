@@ -34,4 +34,6 @@ benefits:
 ### 基礎架構
 
 - CI / CD 工具
+  - [Vercel](https://vercel.com/home)
+  - [Netlify](https://www.netlify.com/)
 - Domain 工具
