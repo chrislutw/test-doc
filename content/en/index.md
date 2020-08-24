@@ -1,12 +1,13 @@
 ---
 title: JAM Stack
 description: ''
+dir: /
 position: 1
 category: 介紹
 features:
   - Javascript
   - API
-  - Markup
+  - Markup(HTML, Markdown)
 benefits:
   - 更快速的網站： 將您的動態網站預宣染成全靜態網站並部屬到 CDN
   - 更安全的基礎建置： jamstack 的設計模能讓攻擊變少
@@ -28,8 +29,9 @@ benefits:
 
 ### 軟體 / 服務
 
+- 版本控管工具：[Github](https://github.com/), [Gitlab](https://gitlab.com/), [Bitbucket](https://bitbucket.org/)
 - 網站產生工具：[查看](https://www.staticgen.com/)
-- 隨開即用的內容管理工具：[查看](https://headlesscms.org/)
+- <span class="text-xs text-red-500">(\*可選)</span>隨開即用的內容管理工具：[查看](https://headlesscms.org/)
 
 ### 基礎架構
 
@@ -37,3 +39,6 @@ benefits:
   - [Vercel](https://vercel.com/home)
   - [Netlify](https://www.netlify.com/)
 - Domain 工具
+  - 上面的 CI / CD 工具皆有內建，不管你是要買或是設定
+
+<img src="/images/vercel-domain.jpg" class="light-img dark-img" />
