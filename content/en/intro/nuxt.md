@@ -24,6 +24,8 @@ features:
 
 > Nuxt <badge>v2.14+</badge> 後新增的功能
 
+其原理是將`md, csv, xml, yaml, json`檔，全部轉換為`json`檔格式，可參考官方提供的[範例](https://content.nuxtjs.org/writing#example)
+
 ### 功能
 
 <list :items="features"></list>
