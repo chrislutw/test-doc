@@ -28,3 +28,6 @@ category: 起步
 
 並且擁有預設的`Domain`
 ![匯入專案7](/images/get-started-vercel/import-projcet-7.jpg)
+
+機器人也會發mail通知
+![匯入專案8](/images/get-started-vercel/import-projcet-8.jpg)
