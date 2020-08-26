@@ -24,11 +24,23 @@ features:
 
 > Nuxt <badge>v2.14+</badge> 後新增的功能
 
-其原理是將`md, csv, xml, yaml, json`檔，全部轉換為`json`檔格式，可參考官方提供的[範例](https://content.nuxtjs.org/writing#example)
+### 原理
+
+將`md, csv, xml, yaml, json`檔，全部轉換為`json`檔格式，可參考官方提供的[範例](https://content.nuxtjs.org/writing#example)
 
 ### 功能
 
 <list :items="features"></list>
+
+### 預設設定
+
+- 全文檢索預設欄位`fullTextSearchFields`：`['title', 'description', 'slug', 'text']`
+- Markdown 預設 remark 套件`markdown.remarkPlugins`：`['remark-squeeze-paragraphs', 'remark-slug', 'remark-autolink-headings', 'remark-external-links', 'remark-footnotes']`
+- Markdown 預設 rehype 套件`markdown.rehypePlugins`：`['rehype-minify-whitespace', 'rehype-sort-attribute-values', 'rehype-sort-attributes', 'rehype-raw']`
+- Markdown 支援 remark 套件：[查看列表](https://github.com/remarkjs/remark/blob/main/doc/plugins.md#list-of-plugins)
+- Markdown 支援 rehype 套件：[查看列表](https://github.com/rehypejs/rehype/blob/main/doc/plugins.md#list-of-plugins)
+
+[其它詳細預設請查看官網](https://content.nuxtjs.org/configuration#defaults)
 
 ### @nuxt/content-theme-docs 模版
 
